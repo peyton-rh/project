@@ -19,7 +19,7 @@ Because this is done with sqlite there isn't much practical difference in this e
 5. Turn notebook code into module
 6. Clean up in pycharm
 7. Write tests
-8. Clean up problems revelated by tests
+8. Clean up problems revealed by tests
 
 ### Tests
 
